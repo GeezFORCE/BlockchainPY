@@ -1,0 +1,6 @@
+venv/
+Lib/
+.bat
+.ps1
+.exe
+
